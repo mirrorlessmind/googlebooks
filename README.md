@@ -1,4 +1,4 @@
-# reading Fun
+#Reading Fun
 
 ![GitHub language count](https://img.shields.io/github/languages/count/mirrorlessmind/budgettrack?color=yellow&logo=GitHub)
 ![npm](https://img.shields.io/npm/v/react?color=green&label=express&logo=NPM&style=plastic)
@@ -7,13 +7,13 @@
 
 ## Search For Your Favorite Books
 
-![Demo Image](public/icons/demo2.jpg?raw=true "Demo Image")
+![Demo Image](public/demo2.jpg?raw=true "Demo Image")
 
 ## Languages & Technology Involved
 Featuring: React, Javascript, MongoDb,Mongoose, Heroku, Node.js,JSON, ES6+,CSS, npm modules.
 
 ##App Deployed
-Heroku Deployed <a href="https://readingfun.herokuapp.com">Reading Fun App</a>
+Heroku Deployed <a href="https://warm-forest-58424.herokuapp.com/">Reading Fun App</a>
 
 ## Table of Contents
 - [Use](#use)

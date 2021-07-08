@@ -1,8 +1,7 @@
 const router = require("express").Router();
 const bookController = require("../../controllers/bookController");
 
-router.route("/books")
-    .get(bookController.findAll)
+router.use("/books")
     .post(bookController.create);
 
 router.route("/books/:id")

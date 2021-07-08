@@ -7,7 +7,7 @@
 
 ## Search For Your Favorite Books
 
-![Demo Image](/clieny/public/demo-2.jpg?raw=true "Demo Image")
+![Demo Image](/client/public/demo-2.jpg?raw=true "Demo Image")
 
 ## Languages & Technology Involved
 Featuring: React, Javascript, MongoDb,Mongoose, Heroku, Node.js,JSON, ES6+,CSS, npm modules.

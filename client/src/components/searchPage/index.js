@@ -20,7 +20,6 @@ class SearchPage extends Component {
         });
     }
 
-    // Save book
     saveBook = (data, event) => {
         event.preventDefault();
         API.saveBook({

@@ -22,7 +22,7 @@ function Searchbar(props) {
                         id="button-addon2"
                         onClick={ props.searchBook }
                         >
-                            <img src={ require( "./search.svg" ) } alt="" width="25"></img>
+                            <img src={ require( "./search-icon.svg" ) } alt="" width="25"></img>
                         </button>
                     </div>
                 </div>
